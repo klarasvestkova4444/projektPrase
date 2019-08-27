@@ -71,6 +71,6 @@ img{
      transition: 0.6s ease;
  }
  li:hover{
-     font-size: 1.6em;
-     transition:  0.9s ease;
+     font-size: 0.6em;
+     transition:  0.6s ease;
 }
