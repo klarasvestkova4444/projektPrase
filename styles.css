@@ -67,10 +67,10 @@ img{
      color: rgb(212, 147, 212);
  }
  li{
-     margin: 0 200px;
+     margin: 0 20px;
      transition: 0.6s ease;
  }
  li:hover{
-     font-size: 10.6em;
+     font-size: 1.6em;
      transition:  0.9s ease;
 }
